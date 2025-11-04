@@ -1,0 +1,91 @@
+{
+  "subject": "Digital Electronics",
+  "code": "",
+  "description": "This course introduces the fundamental concepts of digital systems, logic design, and circuit implementation. It emphasizes combinational and sequential logic, logic families, and digital components essential for computer systems.",
+  "objectives": [
+    "Understand the basic concepts of number systems and Boolean algebra.",
+    "Design and simplify combinational and sequential logic circuits.",
+    "Familiarize with logic families and integrated circuits.",
+    "Analyze digital circuits using simulation tools.",
+    "Develop digital systems using standard combinational and sequential modules."
+  ],
+  "course_outcomes": [
+    "Apply Boolean algebra to simplify and design digital circuits.",
+    "Design combinational logic circuits such as adders, multiplexers, and encoders.",
+    "Implement sequential logic circuits using flip-flops and registers.",
+    "Understand memory elements and programmable logic devices.",
+    "Analyze the performance of digital systems using timing diagrams and simulation tools."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 8,
+      "title": "Number Systems and Boolean Algebra",
+      "topics": [
+        "Binary, Octal, Decimal, and Hexadecimal Number Systems",
+        "Conversions and Arithmetic Operations",
+        "Signed Binary Numbers and Complements",
+        "Boolean Algebra – Postulates and Theorems",
+        "Canonical and Standard Forms",
+        "Karnaugh Map Simplification up to 4 Variables"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 10,
+      "title": "Combinational Logic Circuits",
+      "topics": [
+        "Logic Gates and Their Realizations",
+        "Adder, Subtractor, Comparator",
+        "Code Converters, Multiplexers, Demultiplexers",
+        "Encoders and Decoders",
+        "Implementation of Boolean Functions using MUX/DEMUX",
+        "Design of Arithmetic Logic Circuits"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 8,
+      "title": "Sequential Logic Circuits",
+      "topics": [
+        "Latches and Flip-Flops (SR, JK, D, T)",
+        "Edge and Level Triggering",
+        "Registers and Shift Registers",
+        "Counters – Synchronous and Asynchronous",
+        "Ring and Johnson Counters",
+        "Design of Sequential Circuits from State Tables"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 8,
+      "title": "Logic Families and Digital Components",
+      "topics": [
+        "Transistor-Transistor Logic (TTL), Emitter Coupled Logic (ECL), CMOS Logic",
+        "Characteristics of Logic Families – Fan-in, Fan-out, Noise Margin, Propagation Delay",
+        "Tri-state Logic and Bus Systems",
+        "Programmable Logic Devices – PLA, PAL, and FPGA Introduction"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 8,
+      "title": "Memory and Data Conversion",
+      "topics": [
+        "Memory Organization and Classification – ROM, RAM, EPROM, EEPROM",
+        "Static and Dynamic RAM",
+        "Digital-to-Analog (DAC) and Analog-to-Digital (ADC) Converters",
+        "Sample and Hold Circuits",
+        "Applications of Digital Circuits in Microprocessors and Embedded Systems"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "M. Morris Mano, Digital Logic and Computer Design, Pearson Education",
+    "R.P. Jain, Modern Digital Electronics, 4th Edition, McGraw-Hill Education"
+  ],
+  "reference_books": [
+    "Thomas L. Floyd, Digital Fundamentals, Pearson",
+    "Donald P. Leach and Albert Malvino, Digital Principles and Applications, McGraw-Hill"
+  ]
+}

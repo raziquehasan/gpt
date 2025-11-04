@@ -1,0 +1,87 @@
+{
+  "subject": "Human Resource Development and Organizational Behavior",
+  "code": "",
+  "description": "This course provides insights into human behavior in organizations and emphasizes the development of human resources for organizational effectiveness. It explores motivation, leadership, teamwork, communication, and personal development in professional settings.",
+  "objectives": [
+    "Understand the fundamentals of human behavior in organizations.",
+    "Analyze individual and group dynamics within organizational contexts.",
+    "Explore leadership, motivation, and communication theories.",
+    "Recognize the importance of organizational culture and change management.",
+    "Enhance interpersonal and professional development skills."
+  ],
+  "course_outcomes": [
+    "Explain the role of human behavior in effective organizational functioning.",
+    "Apply motivation and leadership theories to real-world organizational issues.",
+    "Demonstrate skills for effective communication and teamwork.",
+    "Analyze organizational culture and change management processes.",
+    "Develop personal and professional skills to enhance workplace performance."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 8,
+      "title": "Introduction to Organizational Behavior",
+      "topics": [
+        "Definition, Nature, and Scope of Organizational Behavior",
+        "Importance of OB in Management",
+        "Challenges and Opportunities in Organizational Behavior",
+        "Contributing Disciplines to OB",
+        "OB Models – Autocratic, Custodial, Supportive, Collegial"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 8,
+      "title": "Individual Behavior and Motivation",
+      "topics": [
+        "Personality – Determinants, Traits, and Theories",
+        "Perception – Process and Errors in Perception",
+        "Learning and Reinforcement Theories",
+        "Motivation Concepts – Maslow, Herzberg, McGregor, Alderfer, McClelland"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 8,
+      "title": "Group Dynamics and Teamwork",
+      "topics": [
+        "Group Formation and Types of Groups",
+        "Group Norms, Roles, and Cohesiveness",
+        "Team Building and Team Effectiveness",
+        "Conflict Management and Negotiation Skills",
+        "Decision-Making in Groups"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 8,
+      "title": "Leadership and Communication",
+      "topics": [
+        "Leadership Theories – Trait, Behavioral, and Contingency Approaches",
+        "Transactional and Transformational Leadership",
+        "Communication Process, Barriers, and Feedback Mechanisms",
+        "Interpersonal Communication and Emotional Intelligence"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 8,
+      "title": "Organizational Culture and Change",
+      "topics": [
+        "Concept and Dimensions of Organizational Culture",
+        "Developing and Sustaining Organizational Culture",
+        "Organizational Change – Forces, Resistance, and Overcoming Resistance",
+        "Stress Management and Employee Counseling",
+        "Organizational Development (OD) Interventions"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "Stephen P. Robbins and Timothy A. Judge, Organizational Behavior, 18th Edition, Pearson",
+    "K. Aswathappa, Organizational Behavior, Himalaya Publishing House"
+  ],
+  "reference_books": [
+    "Fred Luthans, Organizational Behavior: An Evidence-Based Approach, McGraw-Hill Education",
+    "Uday Pareek, Understanding Organizational Behavior, Oxford University Press"
+  ]
+}

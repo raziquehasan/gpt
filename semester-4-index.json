@@ -1,0 +1,52 @@
+{
+  "semester": "4th Semester",
+  "program": "Computer Science Engineering",
+  "institution": "BEU (Bihar Engineering University)",
+  "total_subjects": 6,
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Discrete Mathematics",
+      "file": "discrete-mathematics.json",
+      "category": "Core Mathematics",
+      "total_hours": 40
+    },
+    {
+      "id": 2,
+      "name": "Computer Organization and Architecture",
+      "file": "coa.json",
+      "category": "Computer Architecture",
+      "total_hours": 44
+    },
+    {
+      "id": 3,
+      "name": "Operating Systems",
+      "file": "os.json",
+      "category": "Systems Programming",
+      "total_hours": 44
+    },
+    {
+      "id": 4,
+      "name": "Design and Analysis of Algorithms",
+      "file": "daa.json",
+      "category": "Algorithm Theory",
+      "total_hours": 42
+    },
+    {
+      "id": 5,
+      "name": "Digital Electronics",
+      "file": "digital-electronics.json",
+      "category": "Electronics",
+      "total_hours": 42
+    },
+    {
+      "id": 6,
+      "name": "Human Resource Development and Organizational Behavior",
+      "file": "hrd.json",
+      "category": "Management",
+      "total_hours": 40
+    }
+  ],
+  "description": "Complete syllabus for 4th semester Computer Science Engineering program, covering core computer science subjects including discrete mathematics, computer architecture, operating systems, algorithms, digital electronics, and organizational behavior.",
+  "last_updated": "2025-11-04"
+}

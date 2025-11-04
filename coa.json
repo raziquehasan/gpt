@@ -1,0 +1,94 @@
+{
+  "subject": "Computer Organization and Architecture",
+  "code": "",
+  "description": "This course introduces the structure, functioning, and interconnection of hardware components that constitute a computer system. It focuses on the organization and architecture that support efficient instruction execution and system performance.",
+  "objectives": [
+    "Understand the basic structure and functional units of digital computers.",
+    "Explain instruction formats, addressing modes, and the principles of instruction execution.",
+    "Describe various types of memory systems and input/output organization.",
+    "Analyze processor performance through pipelining and parallelism.",
+    "Understand control unit design and arithmetic operations in computer architecture."
+  ],
+  "course_outcomes": [
+    "Identify and explain the functional units of a computer and how they interact.",
+    "Illustrate the design and implementation of arithmetic and logic units.",
+    "Understand memory organization, cache mapping, and virtual memory concepts.",
+    "Analyze instruction cycle, addressing modes, and control flow.",
+    "Evaluate system performance using pipelining and input-output mechanisms."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 8,
+      "title": "Basic Structure of Computers",
+      "topics": [
+        "Functional Units and Basic Operational Concepts",
+        "Bus Structures and Data Representation",
+        "Performance Metrics and Measuring Performance",
+        "Number Representation and Arithmetic Operations",
+        "Fixed-Point and Floating-Point Arithmetic"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 8,
+      "title": "Machine Instructions and Programs",
+      "topics": [
+        "Memory Locations and Addresses",
+        "Memory Operations",
+        "Instructions and Instruction Sequencing",
+        "Addressing Modes",
+        "Assembly Language Notation",
+        "Basic Input and Output Operations",
+        "Stack and Queue Structures in Memory"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 10,
+      "title": "Input/Output Organization",
+      "topics": [
+        "Accessing I/O Devices",
+        "Program-Controlled I/O",
+        "Interrupts and Exceptions",
+        "Direct Memory Access (DMA)",
+        "I/O Interfaces and Buses",
+        "I/O Processor Organization"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 8,
+      "title": "Memory System",
+      "topics": [
+        "Basic Concepts of Semiconductor RAM and ROM",
+        "Cache Memory: Mapping Techniques and Replacement Policies",
+        "Performance Considerations",
+        "Main Memory Organization",
+        "Virtual Memory and Address Translation",
+        "Memory Hierarchy Design"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 10,
+      "title": "Control Unit and Pipelining",
+      "topics": [
+        "Hardwired and Microprogrammed Control",
+        "Microinstruction Sequencing and Control Memory",
+        "Pipelining: Basic Concepts, Hazards, and Performance Issues",
+        "Instruction Pipeline and Branch Handling",
+        "Parallel Processing Concepts",
+        "Introduction to RISC and CISC Architectures"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "Carl Hamacher, Zvonko Vranesic, Safwat Zaky, Computer Organization, 6th Edition, McGraw-Hill Education",
+    "M. Morris Mano, Computer System Architecture, 3rd Edition, Prentice-Hall of India"
+  ],
+  "reference_books": [
+    "David A. Patterson and John L. Hennessy, Computer Organization and Design: The Hardware/Software Interface, Morgan Kaufmann",
+    "William Stallings, Computer Organization and Architecture: Designing for Performance, 10th Edition, Pearson Education"
+  ]
+}

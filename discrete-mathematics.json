@@ -1,0 +1,127 @@
+{
+  "subject": "Discrete Mathematics",
+  "code": "",
+  "description": "The course aims to develop an understanding of mathematical reasoning and problem-solving using discrete structures essential for computer science.",
+  "objectives": [
+    "Use mathematically correct terminology and notation.",
+    "Construct correct direct and indirect proofs.",
+    "Use division into cases in a proof.",
+    "Apply counter examples.",
+    "Apply logical reasoning to solve a variety of problems."
+  ],
+  "course_outcomes": [
+    "For a given logic sentence express it in terms of predicates, quantifiers, and logical connectives.",
+    "For a given problem, derive the solution using deductive logic and prove the solution based on logical inference.",
+    "For a given mathematical problem, classify its algebraic structure.",
+    "Evaluate Boolean functions and simplify expressions using properties of Boolean algebra.",
+    "Develop the given problem as graph networks and solve with techniques of graph theory."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 6,
+      "title": "Sets, Relation and Function",
+      "topics": [
+        "Operations and Laws of Sets",
+        "Cartesian Products",
+        "Binary Relation",
+        "Partial Ordering Relation",
+        "Equivalence Relation",
+        "Image of a Set, Sum and Product of Functions",
+        "Bijection Functions",
+        "Inverse and Composite Functions",
+        "Size of a Set, Finite and Infinite Sets",
+        "Countable and Uncountable Sets",
+        "Cantor's Diagonal Argument",
+        "The Power Set Theorem",
+        "Schröder–Bernstein theorem"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 8,
+      "title": "Principles of Mathematical Induction",
+      "topics": [
+        "The Well-Ordering Principle",
+        "The Division Algorithm",
+        "The Greatest Common Divisor",
+        "Euclidean Algorithm",
+        "The Fundamental Theorem of Arithmetic",
+        "Basic counting techniques - inclusion and exclusion",
+        "Pigeonhole principle",
+        "Permutation and combination"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 8,
+      "title": "Propositional Logic",
+      "topics": [
+        "Syntax, Semantics, Validity and Satisfiability",
+        "Basic Connectives and Truth Tables",
+        "Logical Equivalence",
+        "The Laws of Logic",
+        "Logical Implication",
+        "Rules of Inference",
+        "Use of Quantifiers",
+        "Proof Techniques",
+        "Some Terminology, Proof Methods and Strategies",
+        "Forward Proof",
+        "Proof by Contradiction",
+        "Proof by Contraposition",
+        "Proof of Necessity and Sufficiency"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 8,
+      "title": "Algebraic Structures and Morphism",
+      "topics": [
+        "Algebraic Structures with one Binary Operation",
+        "Semi Group",
+        "Monoids",
+        "Groups",
+        "Congruence Relation and Quotient Structures",
+        "Free and Cyclic Monoids and Groups",
+        "Permutation Groups",
+        "Substructures, Normal Subgroups",
+        "Algebraic Structures with two Binary Operations",
+        "Ring, Integral Domain, and Field",
+        "Boolean Algebra and Boolean Ring",
+        "Identities of Boolean Algebra",
+        "Duality",
+        "Representation of Boolean Function",
+        "Disjunctive and Conjunctive Normal Form"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 10,
+      "title": "Graphs and Trees",
+      "topics": [
+        "Graphs and their Properties",
+        "Degree, Connectivity, Path, Cycle, Sub Graph",
+        "Isomorphism",
+        "Eulerian and Hamiltonian Graphs",
+        "Graph Coloring",
+        "Coloring Maps and Planar Graphs",
+        "Coloring Vertices, Coloring Edges, List Coloring",
+        "Perfect Graph",
+        "Definition, Properties and Examples of Trees",
+        "Rooted Trees, Binary Trees",
+        "Spanning Trees, Minimum Spanning Trees",
+        "Cut-Sets, Cut-Vertices, Independent Component and Articulation Points",
+        "Shortest Distances"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "Kenneth H. Rosen, Discrete Mathematics and its Applications, Tata McGraw-Hill",
+    "Susanna S. Epp, Discrete Mathematics with Applications, 4th Edition, Wadsworth Publishing Co. Inc."
+  ],
+  "reference_books": [
+    "J. P. Tremblay and R. Manohar, Discrete Mathematical Structures with Applications to Computer Science, TMH",
+    "Norman L. Biggs, Discrete Mathematics, 2nd Edition, Oxford University Press",
+    "Discrete Mathematics, Tata McGraw-Hill"
+  ]
+}
