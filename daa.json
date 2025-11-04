@@ -1,0 +1,93 @@
+{
+  "subject": "Design and Analysis of Algorithms",
+  "code": "",
+  "description": "This course introduces fundamental techniques for designing and analyzing algorithms. It focuses on problem-solving strategies, algorithm efficiency, and complexity analysis for various computational problems.",
+  "objectives": [
+    "Understand the principles and strategies for algorithm design.",
+    "Analyze algorithm efficiency using time and space complexity.",
+    "Apply various algorithmic paradigms such as divide and conquer, greedy, dynamic programming, and backtracking.",
+    "Identify NP-complete and NP-hard problems.",
+    "Develop efficient algorithms for real-world problems."
+  ],
+  "course_outcomes": [
+    "Define and analyze the asymptotic performance of algorithms.",
+    "Apply fundamental algorithmic techniques to solve computational problems.",
+    "Design algorithms using divide and conquer, greedy, and dynamic programming approaches.",
+    "Understand graph algorithms and their applications.",
+    "Classify computational problems into P, NP, and NP-complete categories."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 8,
+      "title": "Introduction and Asymptotic Analysis",
+      "topics": [
+        "Algorithm Definition and Characteristics",
+        "Pseudo-code and Algorithm Specification",
+        "Performance Analysis – Time and Space Complexity",
+        "Asymptotic Notations: Big-O, Omega, Theta",
+        "Analyzing Recursive and Non-Recursive Algorithms"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 10,
+      "title": "Divide and Conquer Strategy",
+      "topics": [
+        "The General Methodology",
+        "Binary Search, Merge Sort, and Quick Sort",
+        "Finding Maximum and Minimum",
+        "Strassen's Matrix Multiplication",
+        "Analysis of Divide and Conquer Algorithms"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 8,
+      "title": "Greedy Method and Dynamic Programming",
+      "topics": [
+        "General Methodology of Greedy Algorithms",
+        "Optimal Merge Patterns, Huffman Coding, Minimum Spanning Tree (Kruskal's and Prim's)",
+        "Shortest Path Algorithms (Dijkstra's)",
+        "Dynamic Programming Methodology",
+        "Matrix Chain Multiplication",
+        "0/1 Knapsack Problem",
+        "All-Pairs Shortest Path (Floyd-Warshall)"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 8,
+      "title": "Backtracking and Branch & Bound",
+      "topics": [
+        "Backtracking – General Method",
+        "N-Queens Problem",
+        "Sum of Subsets",
+        "Graph Coloring",
+        "Hamiltonian Cycles",
+        "Branch and Bound Techniques",
+        "Travelling Salesman Problem"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 8,
+      "title": "Complexity Theory and NP Problems",
+      "topics": [
+        "Introduction to P, NP, NP-Hard, and NP-Complete Classes",
+        "Reduction Techniques",
+        "Cook's Theorem",
+        "Approximation Algorithms",
+        "Limits of Algorithmic Computability"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "Ellis Horowitz, Sartaj Sahni, Sanguthevar Rajasekaran, Fundamentals of Computer Algorithms, Galgotia Publications",
+    "Cormen, Leiserson, Rivest, Stein, Introduction to Algorithms, 4th Edition, MIT Press"
+  ],
+  "reference_books": [
+    "Jon Kleinberg and Éva Tardos, Algorithm Design, Pearson",
+    "Anany Levitin, Introduction to the Design and Analysis of Algorithms, Pearson"
+  ]
+}

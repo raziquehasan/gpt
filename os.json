@@ -1,0 +1,91 @@
+{
+  "subject": "Operating Systems",
+  "code": "",
+  "description": "This course provides a comprehensive introduction to operating system concepts, including process management, memory management, file systems, and device handling. It emphasizes how an OS acts as a resource manager and enables user interaction with hardware.",
+  "objectives": [
+    "Understand the role and functions of operating systems as resource managers.",
+    "Explain the concepts of process, thread, and scheduling algorithms.",
+    "Describe mechanisms for synchronization, deadlock handling, and interprocess communication.",
+    "Understand memory management techniques including paging and segmentation.",
+    "Analyze the structure of file systems and input/output management."
+  ],
+  "course_outcomes": [
+    "Explain the fundamental concepts, services, and architecture of operating systems.",
+    "Describe process management and scheduling algorithms for CPU allocation.",
+    "Apply synchronization and deadlock avoidance techniques in concurrent systems.",
+    "Understand and implement memory management schemes.",
+    "Illustrate file system organization and input/output operations."
+  ],
+  "modules": [
+    {
+      "module": 1,
+      "lecture_hours": 8,
+      "title": "Introduction to Operating Systems",
+      "topics": [
+        "Operating System Objectives and Functions",
+        "The Evolution of Operating Systems",
+        "Computer System Structure and Operation",
+        "Operating System Services",
+        "System Calls and System Programs",
+        "Types of Operating Systems – Batch, Time-Sharing, Distributed, Real-Time, and Embedded"
+      ]
+    },
+    {
+      "module": 2,
+      "lecture_hours": 10,
+      "title": "Process Management",
+      "topics": [
+        "Processes – Concept, States, and Process Control Block",
+        "Process Scheduling and Types of Schedulers",
+        "Operations on Processes",
+        "Threads and Multithreading Models",
+        "Interprocess Communication (IPC)",
+        "Process Synchronization: Race Conditions and Critical Section Problems"
+      ]
+    },
+    {
+      "module": 3,
+      "lecture_hours": 8,
+      "title": "CPU Scheduling and Deadlocks",
+      "topics": [
+        "CPU Scheduling Criteria and Algorithms (FCFS, SJF, Priority, Round Robin, Multilevel Queue)",
+        "Evaluation of Scheduling Algorithms",
+        "Deadlocks – System Model, Deadlock Characterization",
+        "Methods for Handling Deadlocks: Prevention, Avoidance, Detection, and Recovery"
+      ]
+    },
+    {
+      "module": 4,
+      "lecture_hours": 10,
+      "title": "Memory Management",
+      "topics": [
+        "Memory Management Strategies – Contiguous and Non-Contiguous Allocation",
+        "Paging, Segmentation, and Virtual Memory Concepts",
+        "Page Replacement Algorithms",
+        "Thrashing and Working Set Models",
+        "Allocation of Frames and Demand Paging"
+      ]
+    },
+    {
+      "module": 5,
+      "lecture_hours": 8,
+      "title": "File Systems and I/O Management",
+      "topics": [
+        "File Concept, Access Methods, Directory Structure",
+        "File System Mounting and Protection",
+        "File System Implementation – Allocation Methods, Free-Space Management",
+        "Disk Scheduling Algorithms",
+        "I/O Hardware and Software Layers",
+        "Introduction to Device Drivers"
+      ]
+    }
+  ],
+  "suggested_books": [
+    "Abraham Silberschatz, Peter Baer Galvin, Greg Gagne, Operating System Concepts, 10th Edition, Wiley",
+    "Andrew S. Tanenbaum and Herbert Bos, Modern Operating Systems, 4th Edition, Pearson"
+  ],
+  "reference_books": [
+    "William Stallings, Operating Systems: Internals and Design Principles, 8th Edition, Pearson",
+    "D.M. Dhamdhere, Operating Systems: A Concept-Based Approach, Tata McGraw-Hill"
+  ]
+}
